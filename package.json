@@ -1,0 +1,16 @@
+{
+  "name": "hap-hap-hapciu",
+  "version": "1.0.0",
+  "description": "Hap-Hap-Hapciu is a blog showcasing the stories and experiences of hospital clowns. Through this platform, readers can explore the impact of clown visits on children in hospitals, gaining insights and inspiration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "DevAniela",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
